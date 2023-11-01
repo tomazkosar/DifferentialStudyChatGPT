@@ -1,6 +1,6 @@
 # A Differential Study on ChatGPT Usage
 
-Supplemental data for the paper *A Differential Study on ChatGPT Usage in a Programming Course: Impacts and Adjustments** by Tomaž Kosar, Dragana Ostojić, Yu David Liu, and Marjan Mernik.
+Supplemental data for the paper **A Differential Study on ChatGPT Usage in a Programming Course: Impacts and Adjustments** by Tomaž Kosar, Dragana Ostojić, Yu David Liu, and Marjan Mernik.
 
 The controlled experiment consisted of:
 - a [background questionnaire](Questionnaires/BackgroundQuestionnaire.txt),
