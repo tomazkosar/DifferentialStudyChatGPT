@@ -1,0 +1,21 @@
+About the participant
+1) Age
+2) Gender
+
+Basic questions
+1) How would you rate your interest in programming (1- none, 5- very interested)?
+Answers: 1-5 
+2) How would you rate your programming skills (1- unskilled, 5- expert)?
+Answers: 1-5
+3) How would you rate your C++ knowledge (1- unskilled, 5- expert)?
+Answers: 1-5
+4) Did you pass the Programming I course?
+Answers: No-Yes
+5) Final Programming I course grade?
+6-10
+6) How would you rate your interest in artificial intelligence (1- none, 5- very interested)?
+Answers: 1-5
+7) How would you rate your knowledge of using ChatGPT (1- unskilled, 5- expert)?
+Answers: 1-5
+8) Have you graduated from secondary computer school?
+Answers: No-Yes
