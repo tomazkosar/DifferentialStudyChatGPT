@@ -1,0 +1,21 @@
+1) How would you rate the difficulty of this week's practical assignment (1- easy, 5- very hard)?
+Answers: 1-5
+2) Were you in the control group using ChatGPT?
+Answers: No-Yes
+3) How did you use ChatGPT to solve this task?
+Answer:
+I didn't use it
+generating the final solution
+comparison with own solution
+improvement/optimization of own code
+other
+4) Was other help crucial for solving the practical assignment this week?
+Answers: No-Yes
+5) What was this other help?
+Answer:
+there was no other help
+social networks
+the help of a classmate
+assistant's help
+Internet
+Other
